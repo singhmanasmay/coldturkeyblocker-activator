@@ -1,4 +1,8 @@
+os
 sqlite3
 json
-os
-msvcrt
+threading
+functools
+customtkinter
+winaccent
+PIL
