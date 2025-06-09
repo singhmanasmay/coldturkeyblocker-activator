@@ -8,7 +8,7 @@ A simple Python script that modifies Cold turkey blocker's SQLite database to en
 ## Installation
 
 1. Download the latest release from the [releases page](https://github.com/singhmanasmay/coldturkeyblocker-activator/releases)
-3. Run the downloaded file `Cold turkey blocker Activator.exe`
+3. Run the downloaded file `Cold-turkey-blocker-Activator.exe`
 
 Or run from source:
 
