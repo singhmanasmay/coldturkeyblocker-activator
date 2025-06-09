@@ -186,7 +186,7 @@ def activate():
             else:
                 output('Cold turkey blocker is not installed.\nPress any key to continue...','#FF0000')
         except Exception as e:
-                log(e)
+                log(str(e))
                 output('An unexpected error occurred.\nPlease report at:\nhttps://github.com/singhmanasmay/minecraftbedrock-activator/issues','#FF0000')
     else:
         output('Unsupported OS\nPlease ensure you are running this script on a Windows system.','#FF0000')
