@@ -36,7 +36,8 @@ pip install -r requirements.txt
 
 1. Run the script
 2. The script will modify Cold turkey blocker's SQLite database to enable pro features
-3. Profit!
+3. Restart Cold turkey blocker
+4. Profit!
 
 > [!WARNING]
 > All the files provided in this repository are considered an evaluation version and are provided for educational purposes only.\
