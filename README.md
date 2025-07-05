@@ -20,7 +20,7 @@ pip install -r requirements.txt
 3. Run `Cold-turkey-blocker-Activator.pyw`
 
 > [!TIP]
-> A minimal dependency terminal based version is also available as [Cold-turkey-blocker-Activator(basic).py](Cold-turkey-blocker-Activator(basic).py) with requirements in [requirements(basic).txt](requirements(basic).txt).
+> A minimal dependency terminal based version is also available as [Cold-turkey-blocker-Activator(cli).py](Cold-turkey-blocker-Activator(cli).py) with requirements in [requirements(cli).txt](requirements(cli).txt).
 
 ## Requirements
 
